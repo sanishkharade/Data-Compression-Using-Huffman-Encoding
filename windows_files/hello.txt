@@ -1,0 +1,62 @@
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ FrameworkConfig ] setAppPath appPath == /storage/emulated/0/MiVideoGlobal
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ init ] ==========Device Info==========
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ androidSDK ] 23
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneBoard ] QC_Reference_Phone
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneBrand ] Xiaomi
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneCPU_ABT ] arm64-v8a
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneDevice ] rolex
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneDisplay ] MMB29M
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneFingerprint ] Xiaomi/rolex/rolex:6.0.1/MMB29M/V8.5.5.0.MCCMIED:user/release-keys
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneHost ] mi-server
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneID ] MMB29M
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneManufacturer ] Xiaomi
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneModel ] Redmi 4A
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneVersion ] 6.0.1
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneProduct ] rolex
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneTags ] release-keys
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneTime ] Tue Aug 29 10:00:58 GMT+05:30 2017
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneType ] user
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ phoneUser ] builder
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ screenDensity ] 2.0
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ screenScaledDensity ] 2.0
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ screenWidthPixels ] 720
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ wcreenHeightPixels ] 1280
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ screenStatusBarHeight ] 48
+2020-03-18 10:03:50	DEBUG	DeviceUtils	[ init ] ===============================
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ MiDevUtils3.0 ] init
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ AppConfig ] initAppChannel success channel = mimarket
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ AppConfig ] initAppChannel success platform = mimarket
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ AppConfig ] initAppChannel checkAppVersion = 2020030660
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ VideoMediationConfig ] init
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ VideoMediationConfig ] init end  ENABLE_LOG = trueIS_LOCAL_CONFIG = false ; Staging = false ;  is test = false
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[  ]  GreenDaoDbManager  mContext com.miui.video.service.application.GlobalApplication@d8b1aab
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.service.application.GlobalApplication@d8b1aab
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.service.application.GlobalApplication@d8b1aab
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = false
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.service.application.GlobalApplication@d8b1aab
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.service.application.GlobalApplication@d8b1aab
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = false
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.service.application.GlobalApplication@d8b1aab
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.service.application.GlobalApplication@d8b1aab
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = false
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ LocalServerHelper ] bindSer
+2020-03-18 10:03:50	DEBUG	com.miui.videoplayer	[ LocalServerHelper ] wait
+2020-03-18 10:03:51	ERROR	com.miui.videoplayer	[ GlobalApplication ] RxJavaErrorHandler:The exception was not handled due to missing onError handler in the subscribe() method call. Further reading: https://github.com/ReactiveX/RxJava/wiki/Error-Handling | java.io.IOException: SERVICE_NOT_AVAILABLE
+
+2020-03-18 10:03:51	DEBUG	com.miui.videoplayer	[ FrameworkConfig ] setAppPath appPath == /storage/emulated/0/MiVideoGlobal
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ init ] ==========Device Info==========
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ androidSDK ] 23
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ phoneBoard ] QC_Reference_Phone
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ phoneBrand ] Xiaomi
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ phoneCPU_ABT ] arm64-v8a
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ phoneDevice ] rolex
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ phoneDisplay ] MMB29M
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ phoneFingerprint ] Xiaomi/rolex/rolex:6.0.1/MMB29M/V8.5.5.0.MCCMIED:user/release-keys
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ phoneHost ] mi-server
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ phoneID ] MMB29M
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ phoneManufacturer ] Xiaomi
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ phoneModel ] Redmi 4A
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ phoneVersion ] 6.0.1
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ phoneProduct ] rolex
+2020-03-18 10:03:51	DEBUG	DeviceUtils	[ phoneTags ] release-keys
+2020-03-18 10:03

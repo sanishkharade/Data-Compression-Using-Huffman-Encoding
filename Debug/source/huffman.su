@@ -1,0 +1,2 @@
+huffman.c:38:6:huffman_decode	56	static
+huffman.c:106:5:huffman_encode	64	static

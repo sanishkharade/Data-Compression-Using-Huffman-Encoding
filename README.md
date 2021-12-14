@@ -4,7 +4,7 @@ Author - Sanish Kharade
 This is the repository for the final project of Principles of Embedded Software course
 taught at University of Colorado Boulder
 
-Github URL - 
+Github URL - https://github.com/sanishkharade/Data-Compression-Using-Huffman-Encoding.git
 
 About the application 
 This application is used for reducing the amount of data sent over UART during  
@@ -72,6 +72,7 @@ gcc huffman_tree.c -o huffman_tree.exe
 ./huffman_tree.exe > lookup_table.h  
 
 Now the new huffman table will be created in your lookup_table.h file 
+Copy this in the inc folder of the workspace  
 
 Now build and run the MCUXpresso project.
 To start the serial communication, run the following commands
